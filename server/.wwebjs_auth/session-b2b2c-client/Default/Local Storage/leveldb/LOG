@@ -1,6 +1,0 @@
-2026/09/06-10:26:30.378 b14 Reusing MANIFEST C:\Proyectos\boilerplates\node-react-shadcn-wsp-ts\server\.wwebjs_auth\session-b2b2c-client\Default\Local Storage\leveldb/MANIFEST-000001
-2026/09/06-10:26:30.386 b14 Recovering log #4
-2026/09/06-10:26:30.391 b14 Reusing old log C:\Proyectos\boilerplates\node-react-shadcn-wsp-ts\server\.wwebjs_auth\session-b2b2c-client\Default\Local Storage\leveldb/000004.log 
-2026/09/06-10:27:30.405 6980 Level-0 table #8: started
-2026/09/06-10:27:30.409 6980 Level-0 table #8: 15104 bytes OK
-2026/09/06-10:27:30.410 6980 Delete type=0 #4
