@@ -1,0 +1,31 @@
+2026/09/06-00:40:39.481 61bc Reusing MANIFEST C:\Proyectos\boilerplates\node-react-shadcn-wsp-ts\server\.wwebjs_auth\session-b2b2c-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/06-00:40:39.490 61bc Recovering log #843
+2026/09/06-00:40:39.539 61bc Reusing old log C:\Proyectos\boilerplates\node-react-shadcn-wsp-ts\server\.wwebjs_auth\session-b2b2c-client\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000843.log 
+2026/09/06-00:40:43.655 3918 Level-0 table #860: started
+2026/09/06-00:40:43.678 3918 Level-0 table #860: 1128525 bytes OK
+2026/09/06-00:40:43.679 3918 Delete type=0 #843
+2026/09/06-00:40:43.874 3918 Compacting 1@0 + 0@1 files
+2026/09/06-00:40:43.895 3918 Generated table #861@0: 28347 keys, 556952 bytes
+2026/09/06-00:40:43.898 3918 Generated table #862@0: 45 keys, 5918 bytes
+2026/09/06-00:40:43.898 3918 Compacted 1@0 + 0@1 files => 562870 bytes
+2026/09/06-00:40:43.898 3918 compacted to: files[ 0 2 24 0 0 0 0 ]
+2026/09/06-00:40:44.123 69ec Compacting 1@1 + 2@2 files
+2026/09/06-00:40:44.195 69ec Generated table #863@1: 21171 keys, 2249618 bytes
+2026/09/06-00:40:44.201 69ec Generated table #864@1: 2888 keys, 163516 bytes
+2026/09/06-00:40:44.201 69ec Compacted 1@1 + 2@2 files => 2413134 bytes
+2026/09/06-00:40:44.202 69ec compacted to: files[ 0 1 24 0 0 0 0 ]
+2026/09/06-00:40:44.202 69ec Delete type=2 #860
+2026/09/06-00:40:44.907 4c6c Compacting 1@1 + 7@2 files
+2026/09/06-00:40:44.944 4c6c Generated table #865@1: 12512 keys, 2136905 bytes
+2026/09/06-00:40:45.003 4c6c Generated table #866@1: 57780 keys, 2196783 bytes
+2026/09/06-00:40:45.071 4c6c Generated table #867@1: 98878 keys, 2248421 bytes
+2026/09/06-00:40:45.149 4c6c Generated table #868@1: 98271 keys, 2248174 bytes
+2026/09/06-00:40:45.221 4c6c Generated table #869@1: 97666 keys, 2245779 bytes
+2026/09/06-00:40:45.296 4c6c Generated table #870@1: 89531 keys, 2240688 bytes
+2026/09/06-00:40:45.354 4c6c Generated table #871@1: 72406 keys, 2253354 bytes
+2026/09/06-00:40:45.358 4c6c Generated table #872@1: 644 keys, 149180 bytes
+2026/09/06-00:40:45.358 4c6c Compacted 1@1 + 7@2 files => 15719284 bytes
+2026/09/06-00:40:45.359 4c6c compacted to: files[ 0 0 25 0 0 0 0 ]
+2026/09/06-00:40:45.359 4c6c Delete type=2 #856
+2026/09/06-00:40:45.359 4c6c Delete type=2 #857
+2026/09/06-00:40:45.360 4c6c Delete type=2 #862
